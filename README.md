@@ -4,9 +4,15 @@
 - correo: jose2javier76gmail.com**
 
 # Actividad 
-- programa 1
-- programa 2
+- p001_HolaMundo
+- p002_AreaCirculo
+- p003_AreaTriangulo
+- p004_PagaTrabajador
 
 # Actividad
-- programa 3
-- programa 4
+- p010_HipotenusaTriangulo
+- p011_CalcularAngulo
+- p012_ConvertirTemperatura
+- p013_VolumenCilindro
+- p014_CalculoTiempo
+- p015_ConvertirADolares
