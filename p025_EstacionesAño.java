@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p25_EstacionesAño {
+public class p025_EstacionesAño {
     public static void main(String[] args) {
         System.out.println("dame un numero del 1 al 4");
         int est = new Scanner(System.in).nextInt();
@@ -22,3 +22,4 @@ public class p25_EstacionesAño {
     }
 }
 }
+
